@@ -79,7 +79,7 @@ Converts between UCI notation and Standard Algebraic Notation (SAN) for display.
 
 ```bash
 # Clone the repository
-git clone https://github.com/bezalel6/eval-guesser-v2.git
+git clone https://github.com/RNDev666/eval-guesser-v2.git
 cd eval-guesser-v2
 
 # Install dependencies
@@ -154,6 +154,12 @@ src/
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues and pull requests.
+
+## Support
+
+If this project is useful to you, you can support my work on Ko-fi:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rndev666)
 
 ## License
 
